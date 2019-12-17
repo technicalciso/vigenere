@@ -1,2 +1,2 @@
 # vigenere.pl
-Vigenère encryption, decryption and cipher attack
+Vigenère encryption, decryption and cipher attack in Perl
